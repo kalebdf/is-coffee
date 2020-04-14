@@ -1,6 +1,6 @@
 {
   "name": "is-coffee",
-  "version": "0.0.0-development",
+  "version": "1.0.0",
   "description": "Is it a coffee or not?",
   "author": "Kaleb Fulgham <kaleb@kalebdf.com>",
   "homepage": "https://github.com/kalebdf/is-coffee#readme",
@@ -70,10 +70,16 @@
       "@semantic-release/release-notes-generator",
       "@semantic-release/changelog",
       "@semantic-release/npm",
-      ["@semantic-release/git", {
-        "assets": ["package.json", "CHANGELOG.md"],
-        "message": "chore(release): ${nextRelease.version} [skip ci]\n\n${nextRelease.notes}"
-      }],
+      [
+        "@semantic-release/git",
+        {
+          "assets": [
+            "package.json",
+            "CHANGELOG.md"
+          ],
+          "message": "chore(release): ${nextRelease.version} [skip ci]\n\n${nextRelease.notes}"
+        }
+      ],
       "@semantic-release/github"
     ]
   }
