@@ -20,9 +20,13 @@
   },
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
   "scripts": {
     "build": "tsc",
     "build:watch": "tsc -w",
+    "prepare": "npm run build",
     "test": "jest --coverage",
     "test:watch": "jest --coverage --watchAll",
     "semantic-release": "semantic-release"
