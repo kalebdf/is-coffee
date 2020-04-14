@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/kalebdf/is-coffee/compare/v1.0.1...v1.0.2) (2020-04-14)
+
+
+### Bug Fixes
+
+* add prepare step and updated README ([e441ece](https://github.com/kalebdf/is-coffee/commit/e441ece82a7077c5211dbb638e1b10e4a427ebf3))
+
 ## [1.0.1](https://github.com/kalebdf/is-coffee/compare/v1.0.0...v1.0.1) (2020-04-14)
 
 
