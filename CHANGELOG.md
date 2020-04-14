@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/kalebdf/is-coffee/compare/v1.0.0...v1.0.1) (2020-04-14)
+
+
+### Bug Fixes
+
+* remove files prop in package.json ([def2721](https://github.com/kalebdf/is-coffee/commit/def2721c58ab6cf047b57917659ab3a794459172))
+
 # 1.0.0 (2020-04-14)
 
 
