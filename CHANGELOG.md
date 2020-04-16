@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/kalebdf/is-coffee/compare/v1.0.3...v1.1.0) (2020-04-16)
+
+
+### Features
+
+* introduce hasCoffee and add more words ([cb29eec](https://github.com/kalebdf/is-coffee/commit/cb29eec7d5e923312d1c77e7e368c94965af3d07))
+
 ## [1.0.3](https://github.com/kalebdf/is-coffee/compare/v1.0.2...v1.0.3) (2020-04-14)
 
 
