@@ -15,3 +15,17 @@ if (isCoffee(beverage)) {
   // dump it out
 }
 ```
+
+```
+const { hasCoffee } = require('is-coffee')
+
+const city = 'Austin'
+const location = 'airport'
+const store = 'Skymall'
+
+hasCoffee(city)     // true
+hasCoffee(location) // true
+hasCoffee(store)    // true
+
+// Coffee is everywhere ^_^
+```
