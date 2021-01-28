@@ -11,6 +11,8 @@ jobs:
       # Advanced: optionally overwrite your default `script` step to skip the tests
       # script: skip
       deploy:
+        on:
+          branch: main
         provider: script
         skip_cleanup: true
         script:
