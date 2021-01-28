@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/kalebdf/is-coffee/compare/v1.1.0...v1.1.1) (2021-01-28)
+
+
+### Bug Fixes
+
+* upgrade libs including typescript ([9afd406](https://github.com/kalebdf/is-coffee/commit/9afd406378676adbbff4b728cce5cdb15c1723ad))
+
 # [1.1.0](https://github.com/kalebdf/is-coffee/compare/v1.0.3...v1.1.0) (2020-04-16)
 
 
