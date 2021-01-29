@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/kalebdf/is-coffee/compare/v1.1.1...v1.2.0) (2021-01-29)
+
+
+### Features
+
+* adding several more coffee drinks ([1315fe0](https://github.com/kalebdf/is-coffee/commit/1315fe06766094f0be5178f7defea3e7965fad58))
+
 ## [1.1.1](https://github.com/kalebdf/is-coffee/compare/v1.1.0...v1.1.1) (2021-01-28)
 
 
