@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/kalebdf/is-coffee/compare/v1.2.0...v1.2.1) (2021-02-03)
+
+
+### Bug Fixes
+
+* add two more terms ([22d4ef6](https://github.com/kalebdf/is-coffee/commit/22d4ef64fb386a61b850bc47304af70a316585d6))
+
 # [1.2.0](https://github.com/kalebdf/is-coffee/compare/v1.1.1...v1.2.0) (2021-01-29)
 
 
