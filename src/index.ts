@@ -17,6 +17,7 @@ const WORDS = [
   'con panna',
   'corretto',
   'cortado',
+  'cubano',
   'decaf',
   'doppio',
   'double espresso',
@@ -45,6 +46,7 @@ const WORDS = [
   'ristretto',
   'siphon',
   'turkish',
+  'undertow',
   'v60',
   'vietnamese iced coffee'
 ]
